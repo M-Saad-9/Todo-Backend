@@ -12,7 +12,7 @@ const port = process.env.PORT || 5002;
 app.use(express.json())
 
 app.use(
-  cors({ origin: ["http://localhost:5173", "https://todo-app-by-ms.surge.sh/"] }),
+  cors({ origin: ["http://localhost:5173", "https://todo-app-by-ms.surge.sh"] }),
 );
 
 
