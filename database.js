@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const mongodbURi = "mongodb+srv://muhammad-saad:VyUnlvygSnizKrny@cluster0.tdvcc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const mongodbURi = ""
 
 console.log("mongodbURi" , mongodbURi);
 
